@@ -1,2 +1,2 @@
 # oop-summary
-summary for object orianted in c++(Book for Robert  Lafore 4th Edition)
+object orianted in c++ summary (Book for Robert  Lafore 4th Edition)
